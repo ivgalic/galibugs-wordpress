@@ -1,0 +1,3 @@
+[submodule "web/app/themes/galibugs-theme"]
+	path = web/app/themes/galibugs-theme
+	url = https://github.com/ivgalic/galibugs-theme.git
