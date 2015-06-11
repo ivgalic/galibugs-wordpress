@@ -1,6 +1,7 @@
 # Application
 web/app/plugins/*
 !web/app/plugins/.gitkeep
+!web/app/plugins/wp-retina-2x
 web/app/mu-plugins/*
 !web/app/mu-plugins/.gitkeep
 web/app/upgrade
@@ -29,7 +30,11 @@ vendor/*
 
 # Node Package Manager
 node_modules
+*.log
 
 # Vagrant
 bin
 .vagrant
+
+# MacOS
+.DS_Store
